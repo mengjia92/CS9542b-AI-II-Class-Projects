@@ -1,3 +1,6 @@
+// This program computes the log probability of an input file using the Good-Turing model (n-gram mode) built from the training file
+// Command line: P5 textModel.txt sentence.txt n threshold
+
 #include <string>
 #include <unordered_map>
 #include <fstream>
