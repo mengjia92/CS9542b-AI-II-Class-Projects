@@ -1,3 +1,7 @@
+// This program takes as the command line arguments the names of two text files, the size n for the nGram, and the last parameter that indicates whether to print out common nGrams or not. 
+// It outputs the percentage of nGrams in the second text file that do not occur in the first text file. 
+// Example command line: P2 text1.txt text2.txt 5 0
+
 #include <string>
 #include <unordered_map>
 #include <fstream>
