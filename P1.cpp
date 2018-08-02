@@ -1,5 +1,5 @@
-//  compute the counts of words in an input file and output k most frequent words together with their counts
-// Example command line: P1 text.txt 4
+// compute the counts of words in an input file and output k most frequent words together with their counts
+// example command line: P1 text.txt 4
 
 #include <string>
 #include <unordered_map>
