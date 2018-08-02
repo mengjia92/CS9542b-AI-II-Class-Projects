@@ -1,4 +1,4 @@
-// Random sentence generation in ngram using maximum likelihood algorithm
+// N-gram random sentence generation using maximum likelihood algorithm
 // Example command line: P3 text.txt 3
 
 #include <string>
