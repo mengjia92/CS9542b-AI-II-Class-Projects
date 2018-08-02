@@ -1,3 +1,6 @@
+// A simple spell-checker built with Good-Turing or Add-Delta model
+// Command line: P7 textTrain.txt textCheck.txt dictionary.txt n t delta model
+
 #include <string>
 #include <unordered_map>
 #include <fstream>
