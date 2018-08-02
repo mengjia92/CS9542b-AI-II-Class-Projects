@@ -1,3 +1,5 @@
+//  compute the counts of words in an input file and output k most frequent words together with their counts
+
 #include <string>
 #include <unordered_map>
 #include <fstream>
