@@ -1,5 +1,5 @@
 // This program computes the log probability of an input file using the Add-Delta model (n-gram mode) built from the training file
-// Example command line: P4 textModel.txt sentences.txt 5 0.1
+// Command line: P4 textModel.txt sentence.txt n delta
 
 #include <string>
 #include <unordered_map>
