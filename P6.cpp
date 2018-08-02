@@ -1,3 +1,6 @@
+// Add-Delta language model for classifying human languages
+// Command line: P6 n delta senLength
+
 #include <string>
 #include <unordered_map>
 #include <fstream>
